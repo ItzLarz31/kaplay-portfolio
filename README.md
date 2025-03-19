@@ -16,7 +16,7 @@ This interactive portfolio serves as a unique way to showcase skills and accompl
 
 ## Demo
 
-Check out the live demo here: [Live Demo URL](https://your-demo-link.com)
+Check out the live demo here: [Live Demo URL](https://shawnskaplay.netlify.app/)
 
 ## Features
 
