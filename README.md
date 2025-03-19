@@ -33,4 +33,4 @@ Check out the live demo here: [Live Demo URL](https://your-demo-link.com)
 
 ## Installation
 
-Unfortunately, because I used paid assets which, as part of their license agreement, I cannot redistribute. Therefore, if you clone this repository, it will crash since you will be missing files (e.g., map.json).
+Unfortunately, because I used paid assets I cannot redistribute them as part of their license agreement. Therefore, if you clone this repository, it will crash since you will be missing files (e.g., map.json).
